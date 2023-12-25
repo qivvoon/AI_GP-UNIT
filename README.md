@@ -30,6 +30,7 @@ pretrained content encoder와 생성자모델 학습을 위한 코드는 GP-UNIT
 
 ## 결과 확인
 ```
-python inference.py --content [conten image 경로] --style [style image 경로] --name [생성할 이미지 이름]
+python inference.py --content [conten image 경로] --style [style image 경로]
+                    --name [생성할 이미지 이름]
                     --generator_path [이전에 학습시킨 생성자모델 경로]
 ```
