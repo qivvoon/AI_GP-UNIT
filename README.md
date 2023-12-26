@@ -34,3 +34,4 @@ python inference.py --content [conten image 경로] --style [style image 경로]
                     --name [생성할 이미지 이름]
                     --generator_path [이전에 학습시킨 생성자모델 경로]
 ```
+<img width="603" alt="스크린샷 2023-12-26 오후 2 16 43" src="https://github.com/qivvoon/GP-UNIT/assets/90748096/e08ba92f-470d-48e0-859e-01ec1bebfdca">
