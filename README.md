@@ -1,5 +1,5 @@
 # GP-UNIT을 이용한 명화 속 인물을 사람 얼굴로 변환
-content encoder와 생성자(generator)를 이용해 명화 속 인물을 사람 얼굴로 변환시킬 수 있다.
+content encoder와 생성자(generator)를 이용해 명화 속 인물을 여자 사람 얼굴로 변환시킬 수 있다.
 
 pretrained content encoder와 생성자모델 학습을 위한 코드는 GP-UNIT에서 제공해준다.
 
