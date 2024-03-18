@@ -44,3 +44,7 @@ Dynamic Skip Connection 없이 모델 학습 </br>
 <br></br>
 Identity loss 없이 모델 학습 </br>
 <img width="457" alt="스크린샷 2024-01-02 오후 3 55 24" src="https://github.com/qivvoon/GP-UNIT/assets/90748096/0a6f8d87-8008-4093-be52-b5c00c4eab4b">
+
+## 논문
+[GP-UNIT을 이용한 명화 속 인물을 여자 사람 얼굴로 변환.pdf](https://github.com/qivvoon/AI_GP-UNIT/files/14640703/GP-UNIT.pdf)
+
